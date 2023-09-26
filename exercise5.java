@@ -1,0 +1,8 @@
+public class exercise5{
+    public static void main(String[] args) {
+        System.out.println("Welcome to Java Programming!");
+        System.out.println("My name is Adam Devlin");
+        System.out.println("I belong to ATU");
+        System.out.println("For now at least");
+    }
+}
