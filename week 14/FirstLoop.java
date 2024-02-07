@@ -10,7 +10,6 @@ public class FirstLoop{
             System.out.println("Adam");
             x++;
         }
-        
 
     }
 }
