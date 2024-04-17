@@ -5,7 +5,7 @@ public class Methods{
         m.method2(100);
         m.method3(10, 2.5);
         System.out.println(m.method4());
-        System.out.println(m.method(5));
+        System.out.println(m.method5(5));
     }
     public void method1(){
         System.out.println("method1");
